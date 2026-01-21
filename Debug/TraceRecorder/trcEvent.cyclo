@@ -1,0 +1,13 @@
+../TraceRecorder/trcEvent.c:27:13:xTraceEventInitialize	3
+../TraceRecorder/trcEvent.c:54:13:xTraceEventCreate0	3
+../TraceRecorder/trcEvent.c:89:13:xTraceEventCreate1	3
+../TraceRecorder/trcEvent.c:127:13:xTraceEventCreate2	3
+../TraceRecorder/trcEvent.c:166:13:xTraceEventCreate3	3
+../TraceRecorder/trcEvent.c:206:13:xTraceEventCreate4	3
+../TraceRecorder/trcEvent.c:247:13:xTraceEventCreate5	3
+../TraceRecorder/trcEvent.c:289:13:xTraceEventCreate6	3
+../TraceRecorder/trcEvent.c:332:13:xTraceEventBeginRawOffline	3
+../TraceRecorder/trcEvent.c:384:13:xTraceEventBeginRawOfflineBlocking	3
+../TraceRecorder/trcEvent.c:436:13:xTraceEventEndOffline	1
+../TraceRecorder/trcEvent.c:471:13:xTraceEventEndOfflineBlocking	2
+../TraceRecorder/trcEvent.c:512:13:xTraceEventAddData	2

@@ -1,0 +1,8 @@
+../bsp/src/bsp.c:12:6:BSP_LED_Init	8	static
+../bsp/src/bsp.c:40:6:BSP_LED_On	8	static
+../bsp/src/bsp.c:50:6:BSP_LED_Off	8	static
+../bsp/src/bsp.c:60:6:BSP_LED_Toggle	8	static
+../bsp/src/bsp.c:71:6:BSP_PB_Init	8	static
+../bsp/src/bsp.c:103:9:BSP_PB_GetState	16	static
+../bsp/src/bsp.c:129:6:BSP_Console_Init	8	static
+../bsp/src/bsp.c:228:6:BSP_DELAY_ms	24	static
