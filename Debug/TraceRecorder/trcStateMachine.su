@@ -1,3 +1,0 @@
-../TraceRecorder/trcStateMachine.c:21:13:xTraceStateMachineCreate	32	static
-../TraceRecorder/trcStateMachine.c:43:13:xTraceStateMachineStateCreate	40	static
-../TraceRecorder/trcStateMachine.c:67:13:xTraceStateMachineSetState	16	static

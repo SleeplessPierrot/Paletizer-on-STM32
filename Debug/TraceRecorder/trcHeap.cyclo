@@ -1,3 +1,0 @@
-../TraceRecorder/trcHeap.c:20:13:xTraceHeapCreate	1
-../TraceRecorder/trcHeap.c:31:13:xTraceHeapAlloc	5
-../TraceRecorder/trcHeap.c:68:13:xTraceHeapFree	4
