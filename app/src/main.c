@@ -39,6 +39,7 @@ int main() {
     SystemClock_Config();
     BSP_PB_Init();
     BSP_Console_Init();
+
     vTraceEnable(TRC_START);
 
     // Queue pour les commandes
