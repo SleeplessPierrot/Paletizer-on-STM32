@@ -1,2 +1,2 @@
-# Paletizer-on-STM32
+# Paletizer-control-on-STM32
 to fill...
