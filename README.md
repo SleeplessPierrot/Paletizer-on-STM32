@@ -9,7 +9,9 @@ Ce projet consiste à concevoir et implémenter le contrôle d'un palettiseur in
 ---
 
 ## 📺 Démonstration Vidéo
-> *Regardez le cycle complet de palettisation en action (simulation Factory I/O).*
+
+https://github.com/user-attachments/assets/a4fbecfc-b240-44e8-9584-d9e2b4afbc21
+
 
 ---
 
